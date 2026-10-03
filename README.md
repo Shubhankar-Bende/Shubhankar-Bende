@@ -6,7 +6,7 @@ Hey there! 👋
 * ⚡ **Core Skills:** Test Automation, API Testing (Postman/RestAssured), SQL Validation, and CI/CD Pipeline integration.
 * 📚 **Learning Journey:** Currently mastering advanced TypeScript logic, design patterns (POM), and backend integration tests.
 * 💬 **Ask me about:** Software Testing, Automation Framework Design, Playwright, and Test Execution Strategies.
-* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/shubhankarbende) | [Email](shubhankarbende104@gmail.com)
+* 📫 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhankarbende) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubhankarbende104@gmail.com)
 
 ---
 
