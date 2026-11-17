@@ -25,5 +25,6 @@ Hey there! 👋
 
 ### 📊 GitHub Stats:
 
-![Shubhankar's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Shubhankar-Bende&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubhankar-Bende&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubhankar-Bende&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubhankar-Bende&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhankar-Bende&theme=github_dark)
