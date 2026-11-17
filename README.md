@@ -26,7 +26,7 @@ Hey there! 👋
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubhankar-Bende&theme=github-dark-blue&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Shubhankar-Bende&theme=github-dark-blue&border=30363d" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubhankar-Bende&theme=github_dark" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhankar-Bende&theme=github_dark" height="160" />
 </p>
